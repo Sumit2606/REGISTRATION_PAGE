@@ -6,6 +6,6 @@
     "start": "live-server" 
   },
   "dependencies": {
-    "live-server": "^1.22.1" 
-  }
+  "live-server": "^1.23.0" 
+}
 }
